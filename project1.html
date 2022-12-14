@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>First project</title>
+  </head>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      background-color: white;
+      box-sizing: border-box;
+    }
+    nav {
+      padding: 20px 10%;
+      height: 15vh;
+    }
+    nav ul {
+      display: flex;
+      gap: 30px;
+      align-items: center;
+    
+    }
+    nav ul li {
+      margin-top: 5px;
+      list-style: none;
+      text-align: center;
+      font-weight: 500;
+      align-items: center;
+      
+    }
+    .active
+    {
+     color: rgb(151, 146, 146);
+    }
+    .left > .btn {
+      padding: 10px;
+      border-radius: 5px;
+      margin-top: 80px;
+    }
+
+  
+    .logo img {
+      width: 200px;
+      height: 200px;
+      margin-top: 10px;
+    }
+ .left{
+        margin-left: 200px;
+        margin-top: 100px;
+        padding-top: 20px;
+    }
+    .btn1{
+      
+      border-radius: 10px;
+      align-items: center;
+      margin-top: 20px;
+      background-color: rgb(123, 12, 226);
+      color: white;
+      border: none;
+      text-align: center;
+      margin-left: 500px;
+      
+
+    }
+    .btn1{width: 100px;}
+    .btn1{height: 40px;}
+
+    h1{
+      color: rgb(64, 13, 112);
+      font-size: 50px;
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    }
+    mark{
+      color: blueviolet;
+    }
+    .btn2{
+      padding-top: 5px;
+      margin-top: 30px;
+      border-radius: 10px;
+      height: auto;
+      
+      font-size:auto;
+      background-color: rgb(123, 12, 226);
+      color: white;
+      border: none;
+      text-align: center;
+      
+     }
+    .btn2{width: 150px;}
+    .btn2{height: 40px;}
+
+    main{
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .right{
+      float: right;
+      margin: auto;
+      position:relative;
+      align-items: center;
+      justify-items: center;
+      height: 85vh;
+      
+    }
+    p{
+      color: rgb(174, 174, 174);
+      padding-top: 10px;
+      
+    }
+    .navlogo{
+      width: 80px;
+    }
+    
+  </style>
+  <body>
+    <!---this is navbar-->
+    <nav class="navbar">
+      <ul>
+        <div class="logo"></div>
+        <img class="navlogo" src="./img/Logo.png" alt="this is logo img" />
+        <li >Home</li>
+        <li class="active">About</li>
+        <li class="active">Service</li>
+        <li class="active">Portfolio</li>
+        <li class="active">Pricing</li>
+    <button class="btn1">Contact us</button></li>
+        </div>
+      </ul>
+    </nav>
+    <main>
+
+      <section class="left">
+        <h1>
+          We Help You<br/>
+          <mark>Crush</mark> Your<br/>
+          Competition
+        </h1>
+        <p>
+          Build trust to connection your brand to billions of<br />
+          user and grow your revenue thriugh SEO.
+        </p>
+  
+        <button class="btn2">See our services</button>
+        
+      </section>
+        <section class="right">
+
+          <img  class="header" src="./img/Header Illustration.png" alt="big image" />
+        </section>
+    </section>
+  
+  </body>
+</html>
