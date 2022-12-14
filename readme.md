@@ -7,4 +7,4 @@ Link
 
 [know more](https://github.com/Tanvisha00/HTML-CSS/blob/main/output.png)
 
-![alt text] (https://github.com/Tanvisha00/HTML-CSS/blob/main/output.png)
+![alt text] (https://github.com/Tanvisha00/HTML-CSS/blob/main/output.png?raw=true)
