@@ -1,0 +1,150 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+@media only screen and (max-width:600px){
+    body{
+        background-color: aqua;
+    
+    }
+}
+
+body{ 
+  max-width: 100%;
+  margin: auto;
+}
+
+  
+  nav {
+    padding: 30px 2%;
+    height: 10vh;
+    display: flex;
+  }
+  nav ul {
+    justify-content: space-between;
+    float: left;
+    color: rgb(14, 13, 13);
+    display: flex;
+  }
+  nav ul li {
+    display: inline;
+    margin-top: 10px;
+    margin-bottom:3px;
+    list-style: none;
+    text-align: center;
+    font-weight: 500;
+    margin-left: 100px;
+  }
+  .logo {
+    
+    
+  }
+  .btn1 {
+    border-radius: 10px;
+    width: 130px;
+    height:30px;
+    text-align: center;
+    margin-top: 5px;
+  }
+  .search{
+    margin-top: 5px;
+    margin-left: 150px;
+    justify-content: center;
+ }
+ .global {
+    display: block;
+    margin-top: 0px;
+    width:10px;
+    margin-left: 45%;
+  
+    
+  }
+  .star{
+    margin-left: 65%;
+  }
+  .man {
+    position: absolute;
+   top:200px;
+  
+   left:50px;
+   
+   margin-bottom: auto;
+   
+    
+  }
+  .squre {
+    position: relative;
+    top:100px;
+    left:150px;
+    
+  }
+  main{
+    display: flex;
+    align-items: center;
+  }
+  
+  .leftside{
+    width: 50%;
+  }
+  .active{
+    color: black;
+    margin-left: 50px;
+    padding: 10px;
+  }
+ .rightside{
+    width: 50%;
+ }
+ 
+  h1{
+    
+    margin-top:30px;
+    font-size: 50px;
+    font-style: bold;
+    margin-left: 150px;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }  
+  p{
+
+     text-align:center;
+     margin-top: 3px;
+    
+  
+  }
+  .btn2{
+    border-radius: 10px;
+    padding: 5px;
+    text-align: center;
+    margin-left: 45%;
+    margin-top: 30px;
+    color: grey;
+    border: 1px solid rgb(43, 43, 43);
+  }
+  .btn3{
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  .star2{
+    margin-left: 200px;
+   margin-top: 100px;
+    bottom: 30px;
+    
+  }
+  .icon-img{
+  
+    margin-left: 43%;
+    padding: 10px;
+    justify-content: space-around;
+    
+  }
+  .contact{
+    margin: auto;
+    margin-bottom: 10px;
+    font-size: 30px;
+    text-align: center;
+    margin-left: 80px;
+    color: gray;
+  }
+  
