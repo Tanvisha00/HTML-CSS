@@ -14,4 +14,6 @@ design of webpage:
 
 project 4
 
+Given Output:
+
 ![Credit card landing page](https://user-images.githubusercontent.com/118888081/208675693-7bd48a59-f320-4519-ba45-4a485dbc8599.png)
