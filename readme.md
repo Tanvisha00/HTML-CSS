@@ -1,10 +1,10 @@
-Full stack web developer
+# Articles about web developmet
+# Introduction about HTML and Web Server
+# Input Tags
+# Information aboyt CSS selectors
+# Flexbox
+# CSS position
+# CSS grid layout
+# Box model
 
-
-#  Full Stack Java Script Bootcamp 2.0
-
-This is the image of website which i tried to make design using html and css.....
-
-![output](https://user-images.githubusercontent.com/118888081/207589324-da56bef2-4bbe-46bf-977e-70dce3af87c0.png)
-
-
+[link] ("https://tanvisabhadiya.hashnode.dev/introduction-about-web-server-and-html")
