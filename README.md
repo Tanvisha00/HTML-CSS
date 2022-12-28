@@ -23,3 +23,9 @@ project 4
 
 given output:
 ![Credit card landing page](https://user-images.githubusercontent.com/118888081/208794742-8cfe17ad-c288-44c4-a399-881c23972a2b.png)
+
+
+project 5
+
+![Hosting Landing Page](https://user-images.githubusercontent.com/118888081/209797161-b90aaa7d-4e1d-442c-aa49-b7d123e30033.png)
+
