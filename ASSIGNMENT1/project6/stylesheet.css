@@ -1,0 +1,698 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+    
+}
+.bg-img{
+    background-image: url("./photos/futuristic-bg.png");
+    height: 100%;
+    width: 100%;
+}
+
+.container{
+    max-width: 100%;
+    
+}
+
+nav{
+    padding: 10px 3%;
+    display: flex;
+}
+.nav-logo{
+    margin-top: 20px;
+}
+.nav-bar{
+    display: flex;
+    margin-left: 25%;
+
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    gap:30px;
+    margin-top: 30px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+.nav-btn{
+    display: flex;
+    align-items: center;
+    margin-left: 25%;
+    gap: 10px;
+   
+    
+}
+.sign-up{
+    background-color: orangered;
+    color: white;
+    height: 40px;
+    width: 90px;
+    font-size: 15px;
+}
+.sign-in{
+    font-size: 15px;
+    background-color: black;
+    color: white;
+}
+.section-1{
+    display: flex;
+     margin-top: 30px;
+    
+     
+}
+.left-section-1{
+    width: 50%;
+}
+.heading-1{
+    color: white;
+    font-size: 70px;
+    margin-left: 35px;
+}
+.heading-2{
+    margin-top: 20px;
+    color: gray;
+    font-size: 20px;
+    margin-left: 35px;
+}
+.section-1-btn{
+    margin-top: 20px;
+    margin-left: 30px;
+    display: flex;
+    gap: 30px;
+}
+.Get-started{
+    background-color: rgb(240, 114, 68);
+    height: 50px;
+    width: 150px;
+    color: white;
+    font-size: 15px;
+    border: none;
+}
+.Learn-More{
+    font-size: 15px;
+    height: 50px;
+    width: 150px;
+   background: none;
+   color: white;
+  border-color: white;
+}
+.right-section-1{
+    width: 50%;
+}
+.play-btn{
+     margin-left: 50%; 
+     margin-top: 25%;
+
+}
+.arrow-part{
+    color: white;
+    margin-left: 30%;
+    display: flex;
+    gap: 20px;
+}
+.arrow-heading{
+    margin-top: 50px;
+}
+.next-arrow{
+    margin-top: 20%;
+    width: 60px;
+}
+.section-2{
+    background-color: white;
+     margin-top: 50px;
+}
+.main-heading-left{
+    font-size: 30px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    padding: 10%;
+    font-size: 50px;
+   }
+.img-block
+{
+  
+    display: flex;
+    gap:40px;
+    justify-content: center;
+   
+   
+}
+.first-block{
+    position: relative;
+    
+}
+.first-title{
+    position: absolute;
+    background-color: rgb(108, 106, 106);
+    bottom: 4px;
+    padding: 20px;
+    height:100px;
+    width:300px;
+    color: aliceblue;
+}
+.action{
+    position: absolute;
+    color:rgb(219, 216, 216);
+    bottom: 40px;
+    margin-left: 20px;
+}
+.first{
+    display: flex;
+}
+.first-btn{
+    position: absolute;
+    color: white;
+    background-color: orangered;
+    bottom: 40px;
+    margin-left:50%;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    
+
+}
+.star{
+    position: absolute;
+    bottom: 20px;
+    margin-left: 15px;
+}
+
+
+
+.second-block{
+    position: relative;
+    
+}
+.second-title{
+    position: absolute;
+    background-color: rgb(108, 106, 106);
+    bottom: 4px;
+    padding: 20px;
+    height:100px;
+    width:300px;
+    color: aliceblue;
+}
+.action{
+    position: absolute;
+    color:rgb(219, 216, 216);
+    bottom: 40px;
+    margin-left: 20px;
+}
+.second{
+    display: flex;
+}
+.second-btn{
+    position: absolute;
+    color: white;
+    background-color: orangered;
+    bottom: 40px;
+    margin-left:50%;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    
+
+}
+
+
+.third-block{
+    position: relative;
+    
+}
+.third-title{
+    position: absolute;
+    background-color: rgb(108, 106, 106);
+    bottom: 4px;
+    padding: 20px;
+    height:100px;
+    width:300px;
+    color: aliceblue;
+}
+.action{
+    position: absolute;
+    color:rgb(219, 216, 216);
+    bottom: 40px;
+    margin-left: 20px;
+}
+.third{
+    display: flex;
+}
+.third-btn{
+    position: absolute;
+    color: white;
+    background-color: orangered;
+    bottom: 40px;
+    margin-left:50%;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    
+
+}
+
+
+
+.fourth-block{
+    position: relative;
+    
+}
+.fourth-title{
+    position: absolute;
+    background-color: rgb(108, 106, 106);
+    bottom: 4px;
+    padding: 20px;
+    height:100px;
+    width:300px;
+    color: aliceblue;
+}
+.action{
+    position: absolute;
+    color:rgb(219, 216, 216);
+    bottom: 40px;
+    margin-left: 20px;
+}
+.fourth{
+    display: flex;
+}
+.fourth-btn{
+    position: absolute;
+    color: white;
+    background-color: orangered;
+    bottom: 40px;
+    margin-left:50%;
+    border: none;
+    font-size: 20px;
+    padding: 10px;
+    
+
+}
+.main-img{
+    display: flex;
+    margin-top: 20%;
+    margin-left: 100px;
+    justify-content: center;
+}
+.big-img-left{
+   
+    
+    width:40%;
+}
+.main-txt{
+    font-size: 30px;
+}
+.main-small-txt{
+    margin-top: 20px;
+    color:gray;
+}
+.main-txt-right{
+    width:50%;
+}
+.main-btn{
+    margin-top: 20px;
+
+}
+.explore
+{
+    background-color: rgb(247, 117, 69);
+    padding: 10px;
+    border: none;
+    width: 100px;
+    color: white;
+}
+.learn{
+    margin-left: 20px;
+    padding: 10px;
+    border-color: orangered;
+    background-color: white;
+    color: orangered;
+    width: 100px;
+}
+.three-section{
+    margin-top: 40px;
+    display: flex;
+    margin-top: 10%;
+    justify-content: center;
+}
+.main-three-heading{
+    color: black;
+    font-size: 60px;
+    margin-left: 10%;
+    width: 70%;
+}
+.next-arrow-section{
+   width:30%;
+}
+.left-arrow{
+    background-color: rgb(246, 145, 109);
+    border: none;
+    padding:10px;
+    width: 60px;
+}
+.next-arrow{
+    background-color: rgb(233, 85, 31);
+    border: none;
+    padding:10px;
+}
+.one-two-img-wrap{
+    margin-top: 60px;
+    display: flex;
+    margin-left:auto;
+    margin-right: auto;
+    gap:20px;
+    justify-content: center;
+
+}
+.first-left-wrap{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 100px;
+    gap:20px; 
+}
+.one-txt-right{
+    margin-top: 60px;
+}
+.small-txt{
+    margin-top: 10px;
+    color: orangered;
+}
+.small-txt-one{
+    color: grey;
+    margin-top: 15px;
+}
+.one-btn-wrap{
+    color: white;
+    background-color: rgb(251, 123, 77);
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    width: 100px;
+}
+
+
+.second-left-wrap{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 100px;
+    gap:20px; 
+}
+.second-txt-right{
+    margin-top: 60px;
+}
+.second-small-txt{
+    margin-top: 10px;
+    color: orangered;
+}
+.small-txt-two{
+    color: grey;
+    margin-top: 15px;
+}
+.second-btn-wrap{
+    color: white;
+    background-color: rgb(251, 123, 77);
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    width: 100px;
+}
+
+
+.three-four-img-wrap{
+    margin-top: 60px;
+    display: flex;
+    margin-left:auto;
+    margin-right: auto;
+    gap:20px;
+    justify-content: center;
+
+}
+
+.third-left-wrap{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 100px;
+    gap:20px; 
+}
+.third-txt-right{
+    margin-top: 60px;
+}
+.third-small-txt{
+    margin-top: 10px;
+    color: orangered;
+}
+.third-txt-two{
+    color: grey;
+    margin-top: 15px;
+}
+.third-btn-wrap{
+    color: white;
+    background-color: rgb(251, 123, 77);
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    width: 100px;
+}
+
+
+.fourth-left-wrap{
+    margin-top: 40px;
+    display: flex;
+    margin-left: 100px;
+    gap:20px; 
+}
+.fourth-txt-right{
+    margin-top: 60px;
+}
+.fourth-small-txt{
+    margin-top: 10px;
+    color: orangered;
+}
+.fourth-txt-two{
+    color: grey;
+    margin-top: 15px;
+}
+.fourth-btn-wrap{
+    color: white;
+    background-color: rgb(251, 123, 77);
+    padding: 10px;
+    margin-top: 10px;
+    border: none;
+    width: 100px;
+}
+
+.last-section{
+    background-color: black;
+    margin-top: 30px;
+}
+.last-heading{
+    color: white;
+    font-size: 60px;
+    margin-top: 40px;
+    padding: 30px;
+    text-align: center;
+}
+.last-txt{
+    margin-top: 40px;
+    color: grey;
+    margin-left: 60px;
+    position: relative;
+    
+}
+.three-wrap{
+    margin-left: 5%;
+   
+}
+.last-left{
+    display: flex;
+    
+    
+}
+.game-world{
+    position: relative;
+    margin-left: 31%;
+    bottom: 228px;
+    
+    
+}
+.last-second-img{
+    position: relative;
+    margin-left: 37%;
+    bottom:250px;
+
+}
+.last-third-img{
+    position: relative;
+    margin-left: 70%;
+    bottom:505px;
+
+}
+.bg-big-img{
+    bottom: 441px;
+    position: relative;
+    opacity: 0.10;
+}
+.big-head{
+    text-align: center;
+    font-size: 40px;
+    position: relative;
+    color: rgb(238, 220, 220);
+    bottom: 697px;
+    font-weight: bolder;
+    
+}
+.small-head{
+    color: rgb(77, 75, 75);
+    text-align: center;
+    position: relative;
+    bottom: 690px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.get-btn{
+    background-color: rgb(248, 121, 75);
+    position: relative;
+    bottom: 690px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 45%;
+    margin-top: 20px;
+    border: none;
+    padding: 10px;
+    color: white;
+
+}
+.footer-section{
+    display: flex;
+    gap:30px;
+    justify-content: center;
+   margin-top: 60px;
+    
+}
+.first-col{
+    position: relative;
+    bottom: 600px;
+    padding: 10px;
+    margin-left: 30px;
+    
+}
+.foot-txt{
+    
+    margin-top: 10px;
+    color: gray;
+   
+}
+.f-i-t-wrap-icon{
+    margin-top: 20px;
+    
+}
+ .second-foot{
+    position: relative;
+    bottom:600px;
+     color: white;
+    padding: 10px;
+    
+
+}
+.second-big-title{
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.second-small-title{
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    color: gray;
+}
+.second-2 {
+    margin-top: 20px;
+}
+
+.third-foot{
+    position: relative;
+    bottom:600px;
+     color: white;
+    padding: 10px;
+    
+
+}
+
+.third-big-title{
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.third-small-title{
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    color: gray;
+}
+
+.fourth-foot{
+    position: relative;
+    bottom:600px;
+     color: white;
+    padding: 10px;
+    
+
+}
+
+.fourth-big-title{
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.fourth-small-title{
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    color: gray;
+}
+
+
+.fifth-foot{
+    position: relative;
+    bottom:600px;
+     color: white;
+    padding: 10px;
+    
+
+}
+
+.fifth-big-title{
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.fifth-small-title{
+    font-size: 20px;
+    padding: 20px;
+    margin-top: 10px;
+    padding: 20px;
+    color: gray;
+}
+
+hr
+{
+
+    position: relative;
+    bottom: 400px;
+     color: white;
+     background-color: rgb(3, 133, 232);
+    
+}
