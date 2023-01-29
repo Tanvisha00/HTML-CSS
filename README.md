@@ -1,6 +1,6 @@
 # HTML-CSS
 # Full Stack Web developmet
-# Try to make design same as given output....
+# Try to learn something new....
 
 Project 1
 
