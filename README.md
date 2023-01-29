@@ -29,3 +29,6 @@ project 5
 
 ![Hosting Landing Page](https://user-images.githubusercontent.com/118888081/209797161-b90aaa7d-4e1d-442c-aa49-b7d123e30033.png)
 
+project 6
+
+![Gaming Landing Page](https://user-images.githubusercontent.com/118888081/215332196-7676af4d-d766-4704-b1be-6cdc46155659.png)
