@@ -32,3 +32,9 @@ project 5
 project 6
 
 ![Gaming Landing Page](https://user-images.githubusercontent.com/118888081/215332196-7676af4d-d766-4704-b1be-6cdc46155659.png)
+
+
+project 7
+
+![Real Estate - Desktop](https://user-images.githubusercontent.com/118888081/216810794-eb37dd95-3ba8-4e2d-9135-df9ffef8d829.png)
+
